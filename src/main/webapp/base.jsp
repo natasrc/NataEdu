@@ -17,7 +17,7 @@
 	//图片上传路径 
 	static String uploadSimpleUrl = uploadServerUrl+"/image/gok4?";
 	%>
-<!-- test -->
+<!-- test 001 -->
 <c:set var="ctx" value="<%=CommonConstants.contextPath%>"></c:set>
 <c:set var="ctximg" value="<%=CommonConstants.staticServer%>"></c:set>
 
